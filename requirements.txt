@@ -1,0 +1,8 @@
+pygame         # multimedian käsittelyyn
+pillow         # kuvien käsittelyyn (PIL)
+sounddevice    # äänen kanssa työskentelyyn
+tkinter        # graafisen käyttöliittymän luontiin (yleensä sisältyy Pythonin vakiokirjastoon)
+pyttsx3        # puhesynteesiin
+vosk           # puheen tunnistukseen
+python-dotenv  # .env-tiedostojen käsittelyyn
+openai         # OpenAI-rajapinnan käyttöön

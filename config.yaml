@@ -1,0 +1,31 @@
+intents:
+  joke:
+    keywords:
+      - tell me a joke
+      - make me laugh
+      - joke
+    action: joke
+
+  greet:
+    keywords:
+      - hello
+      - hi
+    action: greet
+
+  capabilities:
+    keywords:
+      - what can you do
+      - what are your functions
+    action: capabilities
+
+  open_browser:
+    keywords:
+      - open browser
+      - launch chrome
+    action: open_browser
+
+  bye:
+    keywords:
+      - bye
+      - goodbye
+    action: bye
